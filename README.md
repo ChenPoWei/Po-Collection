@@ -1,5 +1,4 @@
 # Po Collection
-
 ## 整理的資源
 * [:zap:閃電網路資源整理 | :zap:Lightning network resources](https://github.com/ChenPoWei/Lightning_network_resources_zh)
 * [區塊鏈隱私資源 | Blockchain privacy resources](https://github.com/ChenPoWei/blockchain_privacy_resources_zh)
