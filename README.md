@@ -2,22 +2,22 @@
 
 ## 資源整理
 
--   [:zap:閃電網路資源整理 | :zap:Lightning network resources](https://github.com/ChenPoWei/Lightning_network_resources_zh)
--   [區塊鏈隱私資源 | Blockchain privacy resources](https://github.com/ChenPoWei/blockchain_privacy_resources_zh)
--   [Schnorr簽名資源 | Schnorr Signature Resources](https://github.com/ChenPoWei/Schnorr_Signature_Resources_zh)
+-   [:bulb: 閃電網路資源整理 | :zap:Lightning network resources](https://github.com/ChenPoWei/Lightning_network_resources_zh)
+-   [:bulb: 區塊鏈隱私資源 | Blockchain privacy resources](https://github.com/ChenPoWei/blockchain_privacy_resources_zh)
+-   [:bulb: Schnorr簽名資源 | Schnorr Signature Resources](https://github.com/ChenPoWei/Schnorr_Signature_Resources_zh)
 
 ## 翻譯 論文 & 書籍
 
 -   論文
-    -   [比特幣：一種點對點的電子現金系統](https://github.com/ChenPoWei/bitcoin_whitepaper_zh)
-    -   [以太坊：下一代智慧合約和去中心化應用平臺](https://github.com/ChenPoWei/ethereum_whitepaper_zh)
-    -   [Nervos CKB 加密經濟模型提案](https://github.com/nervos-community/RFC-CN/blob/master/TCN.md)
+    -   [:page_facing_up: 比特幣：一種點對點的電子現金系統](https://github.com/ChenPoWei/bitcoin_whitepaper_zh)
+    -   [:page_facing_up: 以太坊：下一代智慧合約和去中心化應用平臺](https://github.com/ChenPoWei/ethereum_whitepaper_zh)
+    -   [:page_facing_up: Nervos CKB 加密經濟模型提案](https://github.com/nervos-community/RFC-CN/blob/master/TCN.md)
 -   書籍
-    -   [密碼龐克-自由與網際網路的未來](https://github.com/ChenPoWei/cyherpunksbook_zh)
-    -   [精通比特幣 第二版 - 繁中](https://github.com/ChenPoWei/bitcoinbook_2nd_zh)
-    -   [精通比特幣 - 繁中](https://github.com/ChenPoWei/ethereumbook_zh)
-    -   [區塊鏈技術指南](https://github.com/ChenPoWei/blockchain_guide_zh)
-    -   [Java 編程思想](https://github.com/ChenPoWei/thinking_in_java_zh)
+    -   [:book: 密碼龐克-自由與網際網路的未來](https://github.com/ChenPoWei/cyherpunksbook_zh)
+    -   [:book: 精通比特幣 第二版 - 繁中](https://github.com/ChenPoWei/bitcoinbook_2nd_zh)
+    -   [:book: 精通比特幣 - 繁中](https://github.com/ChenPoWei/ethereumbook_zh)
+    -   [:book: 區塊鏈技術指南](https://github.com/ChenPoWei/blockchain_guide_zh)
+    -   [:book: Java 編程思想](https://github.com/ChenPoWei/thinking_in_java_zh)
 -   專案
 
 ## 論文著述
