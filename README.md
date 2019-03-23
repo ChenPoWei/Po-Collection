@@ -1,12 +1,12 @@
 # Po Collection
 
-## 整理的資源
+## 資源整理
 
 -   [:zap:閃電網路資源整理 | :zap:Lightning network resources](https://github.com/ChenPoWei/Lightning_network_resources_zh)
 -   [區塊鏈隱私資源 | Blockchain privacy resources](https://github.com/ChenPoWei/blockchain_privacy_resources_zh)
 -   [Schnorr簽名資源 | Schnorr Signature Resources](https://github.com/ChenPoWei/Schnorr_Signature_Resources_zh)
 
-## 翻譯的論文 & 書籍
+## 翻譯 論文 & 書籍
 
 -   論文
     -   [比特幣：一種點對點的電子現金系統](https://github.com/ChenPoWei/bitcoin_whitepaper_zh)
