@@ -18,7 +18,6 @@
     -   [:book: 精通以太坊 | Mastering Ethereum](https://github.com/ChenPoWei/ethereumbook_zh)
     -   [:book: 區塊鏈技術指南](https://github.com/ChenPoWei/blockchain_guide_zh)
     -   [:book: Java 編程思想 | Thinking in Java](https://github.com/ChenPoWei/thinking_in_java_zh)
--   專案
 
 ## 論文著述
 
