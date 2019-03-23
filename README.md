@@ -9,15 +9,15 @@
 ## 翻譯 論文 & 書籍
 
 -   論文
-    -   [:page_facing_up: 比特幣：一種點對點的電子現金系統](https://github.com/ChenPoWei/bitcoin_whitepaper_zh)
-    -   [:page_facing_up: 以太坊：下一代智慧合約和去中心化應用平臺](https://github.com/ChenPoWei/ethereum_whitepaper_zh)
-    -   [:page_facing_up: Nervos CKB 加密經濟模型提案](https://github.com/nervos-community/RFC-CN/blob/master/TCN.md)
+    -   [:page_facing_up: 比特幣：一種點對點的電子現金系統 | Bitcoin: A Peer-to-Peer Electronic Cash System](https://github.com/ChenPoWei/bitcoin_whitepaper_zh)
+    -   [:page_facing_up: 以太坊：下一代智慧合約和去中心化應用平臺 | Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform](https://github.com/ChenPoWei/ethereum_whitepaper_zh)
+    -   [:page_facing_up: Nervos CKB 加密經濟模型提案 | Crypto-Economics of the Nervos Common Knowledge Base](https://github.com/nervos-community/RFC-CN/blob/master/TCN.md)
 -   書籍
-    -   [:book: 密碼龐克-自由與網際網路的未來](https://github.com/ChenPoWei/cyherpunksbook_zh)
-    -   [:book: 精通比特幣 第二版 - 繁中](https://github.com/ChenPoWei/bitcoinbook_2nd_zh)
-    -   [:book: 精通比特幣 - 繁中](https://github.com/ChenPoWei/ethereumbook_zh)
+    -   [:book: 密碼龐克-自由與網際網路的未來 | Cypherpunks: Freedom and the Future of the Internet](https://github.com/ChenPoWei/cyherpunksbook_zh)
+    -   [:book: 精通比特幣 第二版 | Mastering Bitcoin 2nd Edition](https://github.com/ChenPoWei/bitcoinbook_2nd_zh)
+    -   [:book: 精通以太坊 | Mastering Ethereum](https://github.com/ChenPoWei/ethereumbook_zh)
     -   [:book: 區塊鏈技術指南](https://github.com/ChenPoWei/blockchain_guide_zh)
-    -   [:book: Java 編程思想](https://github.com/ChenPoWei/thinking_in_java_zh)
+    -   [:book: Java 編程思想 | Thinking in Java](https://github.com/ChenPoWei/thinking_in_java_zh)
 -   專案
 
 ## 論文著述
