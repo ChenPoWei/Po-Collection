@@ -1,7 +1,6 @@
 # Po Collection
 
 ## 論文著述
-
 1.  Liu, C. R., Duan, L. H., Chen, P. W., & Yang, C. C. (2018, September). Monitoring Machine Tool Based on External Physical Characteristics of the Machine Tool Using Machine Learning Algorithm. In 2018 First International Conference on Artificial Intelligence for Industries (AI4I) (pp. 5-8). IEEE.
     [IEEE Computer Society Digital Library (CSDL)](https://www.computer.org/csdl/proceedings-article/2018/ai4i/18qbZTO3SOA/18qc2VLDzXi),
     [IEEE Xplore Digital Library](https://ieeexplore.ieee.org/document/8665696)
