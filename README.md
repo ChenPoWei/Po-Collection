@@ -1,4 +1,10 @@
 # Po Collection
+## 書籍整理
+* Mastering Ethereum - 繁中 https://github.com/cypherpunks-core/ethereumbook_zh
+* Mastering Bitcoin 2nd Edition - 繁中 https://github.com/cypherpunks-core/bitcoinbook_2nd_zh
+* 密碼龐克-自由與網際網路的未來-繁中 | Cypherpunks: Freedom and the Future of the Internet https://github.com/cypherpunks-core/cyherpunksbook_zh
+
+
 ## 論文著述
 1.  Liu, C. R., Duan, L. H., Chen, P. W., & Yang, C. C. (2018, September). Monitoring Machine Tool Based on External Physical Characteristics of the Machine Tool Using Machine Learning Algorithm. In 2018 First International Conference on Artificial Intelligence for Industries (AI4I) (pp. 5-8). IEEE.
     [IEEE Computer Society Digital Library (CSDL)](https://www.computer.org/csdl/proceedings-article/2018/ai4i/18qbZTO3SOA/18qc2VLDzXi),
