@@ -4,6 +4,15 @@
 * Mastering Bitcoin 2nd Edition - 繁中 https://github.com/cypherpunks-core/bitcoinbook_2nd_zh
 * 密碼龐克-自由與網際網路的未來-繁中 | Cypherpunks: Freedom and the Future of the Internet https://github.com/cypherpunks-core/cyherpunksbook_zh
 
+## 論文整理
+* 以太坊（Ethereum ）:下一代智慧合約和去中心化應用平臺 https://github.com/cypherpunks-core/ethereum_whitepaper_zh
+* 比特幣：一種點對點的電子現金系統 https://github.com/cypherpunks-core/bitcoin_whitepaper_zh
+* 比特幣閃電網路：可擴展的 off-chain 即時支付 | The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments https://github.com/cypherpunks-core/lightning_network_whitepaper_zh
+ 
+## 資源整理
+* 閃電網路資源整理 https://github.com/cypherpunks-core/Lightning_network_resources_zh
+* 區塊鏈隱私資源 https://github.com/cypherpunks-core/blockchain_privacy_resources_zh
+* Schnorr簽名資源 https://github.com/cypherpunks-core/Schnorr_Signature_Resources_zh
 
 ## 論文著述
 1.  Liu, C. R., Duan, L. H., Chen, P. W., & Yang, C. C. (2018, September). Monitoring Machine Tool Based on External Physical Characteristics of the Machine Tool Using Machine Learning Algorithm. In 2018 First International Conference on Artificial Intelligence for Industries (AI4I) (pp. 5-8). IEEE.
